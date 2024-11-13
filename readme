@@ -1,0 +1,6 @@
+Run the following commands: 
+
+1) pip install virtualenv
+2) .\env\Scripts\activate
+3) python install -r requirements.txt
+3) python main.py
